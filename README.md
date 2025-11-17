@@ -1,1 +1,1 @@
-# claude-code-book
+# claude-code-book-template

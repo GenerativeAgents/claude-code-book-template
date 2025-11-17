@@ -1,7 +1,7 @@
 {
-  "name": "claude-code-book",
+  "name": "claude-code-book-template",
   "image": "mcr.microsoft.com/devcontainers/base:bookworm",
-  "workspaceFolder": "/workspaces/claude-code-book",
+  "workspaceFolder": "/workspaces/claude-code-book-template",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {},
     "ghcr.io/devcontainers/features/github-cli:1": {}
